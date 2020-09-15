@@ -1,0 +1,13 @@
+C:\Users\Admin\Desktop\Codegym\kethua\ClassStudent\bin\Debug\netcoreapp3.1\ClassStudent.exe
+C:\Users\Admin\Desktop\Codegym\kethua\ClassStudent\bin\Debug\netcoreapp3.1\ClassStudent.deps.json
+C:\Users\Admin\Desktop\Codegym\kethua\ClassStudent\bin\Debug\netcoreapp3.1\ClassStudent.runtimeconfig.json
+C:\Users\Admin\Desktop\Codegym\kethua\ClassStudent\bin\Debug\netcoreapp3.1\ClassStudent.runtimeconfig.dev.json
+C:\Users\Admin\Desktop\Codegym\kethua\ClassStudent\bin\Debug\netcoreapp3.1\ClassStudent.dll
+C:\Users\Admin\Desktop\Codegym\kethua\ClassStudent\bin\Debug\netcoreapp3.1\ClassStudent.pdb
+C:\Users\Admin\Desktop\Codegym\kethua\ClassStudent\obj\Debug\netcoreapp3.1\ClassStudent.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\Codegym\kethua\ClassStudent\obj\Debug\netcoreapp3.1\ClassStudent.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\Codegym\kethua\ClassStudent\obj\Debug\netcoreapp3.1\ClassStudent.AssemblyInfo.cs
+C:\Users\Admin\Desktop\Codegym\kethua\ClassStudent\obj\Debug\netcoreapp3.1\ClassStudent.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Codegym\kethua\ClassStudent\obj\Debug\netcoreapp3.1\ClassStudent.dll
+C:\Users\Admin\Desktop\Codegym\kethua\ClassStudent\obj\Debug\netcoreapp3.1\ClassStudent.pdb
+C:\Users\Admin\Desktop\Codegym\kethua\ClassStudent\obj\Debug\netcoreapp3.1\ClassStudent.genruntimeconfig.cache
