@@ -1,0 +1,13 @@
+C:\Users\Admin\Desktop\Codegym\kethua\StaticProperty\bin\Debug\netcoreapp3.1\StaticProperty.exe
+C:\Users\Admin\Desktop\Codegym\kethua\StaticProperty\bin\Debug\netcoreapp3.1\StaticProperty.deps.json
+C:\Users\Admin\Desktop\Codegym\kethua\StaticProperty\bin\Debug\netcoreapp3.1\StaticProperty.runtimeconfig.json
+C:\Users\Admin\Desktop\Codegym\kethua\StaticProperty\bin\Debug\netcoreapp3.1\StaticProperty.runtimeconfig.dev.json
+C:\Users\Admin\Desktop\Codegym\kethua\StaticProperty\bin\Debug\netcoreapp3.1\StaticProperty.dll
+C:\Users\Admin\Desktop\Codegym\kethua\StaticProperty\bin\Debug\netcoreapp3.1\StaticProperty.pdb
+C:\Users\Admin\Desktop\Codegym\kethua\StaticProperty\obj\Debug\netcoreapp3.1\StaticProperty.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\Codegym\kethua\StaticProperty\obj\Debug\netcoreapp3.1\StaticProperty.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\Codegym\kethua\StaticProperty\obj\Debug\netcoreapp3.1\StaticProperty.AssemblyInfo.cs
+C:\Users\Admin\Desktop\Codegym\kethua\StaticProperty\obj\Debug\netcoreapp3.1\StaticProperty.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Codegym\kethua\StaticProperty\obj\Debug\netcoreapp3.1\StaticProperty.dll
+C:\Users\Admin\Desktop\Codegym\kethua\StaticProperty\obj\Debug\netcoreapp3.1\StaticProperty.pdb
+C:\Users\Admin\Desktop\Codegym\kethua\StaticProperty\obj\Debug\netcoreapp3.1\StaticProperty.genruntimeconfig.cache
