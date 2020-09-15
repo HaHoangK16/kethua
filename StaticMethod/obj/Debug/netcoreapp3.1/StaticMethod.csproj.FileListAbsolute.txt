@@ -1,0 +1,13 @@
+C:\Users\Admin\Desktop\Codegym\kethua\StaticMethod\bin\Debug\netcoreapp3.1\StaticMethod.exe
+C:\Users\Admin\Desktop\Codegym\kethua\StaticMethod\bin\Debug\netcoreapp3.1\StaticMethod.deps.json
+C:\Users\Admin\Desktop\Codegym\kethua\StaticMethod\bin\Debug\netcoreapp3.1\StaticMethod.runtimeconfig.json
+C:\Users\Admin\Desktop\Codegym\kethua\StaticMethod\bin\Debug\netcoreapp3.1\StaticMethod.runtimeconfig.dev.json
+C:\Users\Admin\Desktop\Codegym\kethua\StaticMethod\bin\Debug\netcoreapp3.1\StaticMethod.dll
+C:\Users\Admin\Desktop\Codegym\kethua\StaticMethod\bin\Debug\netcoreapp3.1\StaticMethod.pdb
+C:\Users\Admin\Desktop\Codegym\kethua\StaticMethod\obj\Debug\netcoreapp3.1\StaticMethod.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\Codegym\kethua\StaticMethod\obj\Debug\netcoreapp3.1\StaticMethod.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\Codegym\kethua\StaticMethod\obj\Debug\netcoreapp3.1\StaticMethod.AssemblyInfo.cs
+C:\Users\Admin\Desktop\Codegym\kethua\StaticMethod\obj\Debug\netcoreapp3.1\StaticMethod.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Codegym\kethua\StaticMethod\obj\Debug\netcoreapp3.1\StaticMethod.dll
+C:\Users\Admin\Desktop\Codegym\kethua\StaticMethod\obj\Debug\netcoreapp3.1\StaticMethod.pdb
+C:\Users\Admin\Desktop\Codegym\kethua\StaticMethod\obj\Debug\netcoreapp3.1\StaticMethod.genruntimeconfig.cache
