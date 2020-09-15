@@ -1,0 +1,13 @@
+C:\Users\Admin\Desktop\Codegym\kethua\point\bin\Debug\netcoreapp3.1\point.exe
+C:\Users\Admin\Desktop\Codegym\kethua\point\bin\Debug\netcoreapp3.1\point.deps.json
+C:\Users\Admin\Desktop\Codegym\kethua\point\bin\Debug\netcoreapp3.1\point.runtimeconfig.json
+C:\Users\Admin\Desktop\Codegym\kethua\point\bin\Debug\netcoreapp3.1\point.runtimeconfig.dev.json
+C:\Users\Admin\Desktop\Codegym\kethua\point\bin\Debug\netcoreapp3.1\point.dll
+C:\Users\Admin\Desktop\Codegym\kethua\point\bin\Debug\netcoreapp3.1\point.pdb
+C:\Users\Admin\Desktop\Codegym\kethua\point\obj\Debug\netcoreapp3.1\point.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\Codegym\kethua\point\obj\Debug\netcoreapp3.1\point.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\Codegym\kethua\point\obj\Debug\netcoreapp3.1\point.AssemblyInfo.cs
+C:\Users\Admin\Desktop\Codegym\kethua\point\obj\Debug\netcoreapp3.1\point.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Codegym\kethua\point\obj\Debug\netcoreapp3.1\point.dll
+C:\Users\Admin\Desktop\Codegym\kethua\point\obj\Debug\netcoreapp3.1\point.pdb
+C:\Users\Admin\Desktop\Codegym\kethua\point\obj\Debug\netcoreapp3.1\point.genruntimeconfig.cache
