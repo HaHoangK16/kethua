@@ -1,0 +1,13 @@
+C:\Users\Admin\Desktop\Codegym\kethua\QuadraticEquation\bin\Debug\netcoreapp3.1\QuadraticEquation.exe
+C:\Users\Admin\Desktop\Codegym\kethua\QuadraticEquation\bin\Debug\netcoreapp3.1\QuadraticEquation.deps.json
+C:\Users\Admin\Desktop\Codegym\kethua\QuadraticEquation\bin\Debug\netcoreapp3.1\QuadraticEquation.runtimeconfig.json
+C:\Users\Admin\Desktop\Codegym\kethua\QuadraticEquation\bin\Debug\netcoreapp3.1\QuadraticEquation.runtimeconfig.dev.json
+C:\Users\Admin\Desktop\Codegym\kethua\QuadraticEquation\bin\Debug\netcoreapp3.1\QuadraticEquation.dll
+C:\Users\Admin\Desktop\Codegym\kethua\QuadraticEquation\bin\Debug\netcoreapp3.1\QuadraticEquation.pdb
+C:\Users\Admin\Desktop\Codegym\kethua\QuadraticEquation\obj\Debug\netcoreapp3.1\QuadraticEquation.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\Codegym\kethua\QuadraticEquation\obj\Debug\netcoreapp3.1\QuadraticEquation.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\Codegym\kethua\QuadraticEquation\obj\Debug\netcoreapp3.1\QuadraticEquation.AssemblyInfo.cs
+C:\Users\Admin\Desktop\Codegym\kethua\QuadraticEquation\obj\Debug\netcoreapp3.1\QuadraticEquation.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Codegym\kethua\QuadraticEquation\obj\Debug\netcoreapp3.1\QuadraticEquation.dll
+C:\Users\Admin\Desktop\Codegym\kethua\QuadraticEquation\obj\Debug\netcoreapp3.1\QuadraticEquation.pdb
+C:\Users\Admin\Desktop\Codegym\kethua\QuadraticEquation\obj\Debug\netcoreapp3.1\QuadraticEquation.genruntimeconfig.cache
