@@ -1,0 +1,13 @@
+C:\Users\Admin\Desktop\Codegym\kethua\Access-modifier\bin\Debug\netcoreapp3.1\Access-modifier.exe
+C:\Users\Admin\Desktop\Codegym\kethua\Access-modifier\bin\Debug\netcoreapp3.1\Access-modifier.deps.json
+C:\Users\Admin\Desktop\Codegym\kethua\Access-modifier\bin\Debug\netcoreapp3.1\Access-modifier.runtimeconfig.json
+C:\Users\Admin\Desktop\Codegym\kethua\Access-modifier\bin\Debug\netcoreapp3.1\Access-modifier.runtimeconfig.dev.json
+C:\Users\Admin\Desktop\Codegym\kethua\Access-modifier\bin\Debug\netcoreapp3.1\Access-modifier.dll
+C:\Users\Admin\Desktop\Codegym\kethua\Access-modifier\bin\Debug\netcoreapp3.1\Access-modifier.pdb
+C:\Users\Admin\Desktop\Codegym\kethua\Access-modifier\obj\Debug\netcoreapp3.1\Access-modifier.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\Codegym\kethua\Access-modifier\obj\Debug\netcoreapp3.1\Access-modifier.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\Codegym\kethua\Access-modifier\obj\Debug\netcoreapp3.1\Access-modifier.AssemblyInfo.cs
+C:\Users\Admin\Desktop\Codegym\kethua\Access-modifier\obj\Debug\netcoreapp3.1\Access-modifier.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Codegym\kethua\Access-modifier\obj\Debug\netcoreapp3.1\Access-modifier.dll
+C:\Users\Admin\Desktop\Codegym\kethua\Access-modifier\obj\Debug\netcoreapp3.1\Access-modifier.pdb
+C:\Users\Admin\Desktop\Codegym\kethua\Access-modifier\obj\Debug\netcoreapp3.1\Access-modifier.genruntimeconfig.cache
