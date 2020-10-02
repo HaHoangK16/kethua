@@ -1,0 +1,12 @@
+C:\Users\hntdahta\source\repos\Class-Stopwatch\bin\Debug\netcoreapp3.1\Class-Stopwatch.exe
+C:\Users\hntdahta\source\repos\Class-Stopwatch\bin\Debug\netcoreapp3.1\Class-Stopwatch.deps.json
+C:\Users\hntdahta\source\repos\Class-Stopwatch\bin\Debug\netcoreapp3.1\Class-Stopwatch.runtimeconfig.json
+C:\Users\hntdahta\source\repos\Class-Stopwatch\bin\Debug\netcoreapp3.1\Class-Stopwatch.runtimeconfig.dev.json
+C:\Users\hntdahta\source\repos\Class-Stopwatch\bin\Debug\netcoreapp3.1\Class-Stopwatch.dll
+C:\Users\hntdahta\source\repos\Class-Stopwatch\bin\Debug\netcoreapp3.1\Class-Stopwatch.pdb
+C:\Users\hntdahta\source\repos\Class-Stopwatch\obj\Debug\netcoreapp3.1\Class-Stopwatch.AssemblyInfoInputs.cache
+C:\Users\hntdahta\source\repos\Class-Stopwatch\obj\Debug\netcoreapp3.1\Class-Stopwatch.AssemblyInfo.cs
+C:\Users\hntdahta\source\repos\Class-Stopwatch\obj\Debug\netcoreapp3.1\Class-Stopwatch.csproj.CoreCompileInputs.cache
+C:\Users\hntdahta\source\repos\Class-Stopwatch\obj\Debug\netcoreapp3.1\Class-Stopwatch.dll
+C:\Users\hntdahta\source\repos\Class-Stopwatch\obj\Debug\netcoreapp3.1\Class-Stopwatch.pdb
+C:\Users\hntdahta\source\repos\Class-Stopwatch\obj\Debug\netcoreapp3.1\Class-Stopwatch.genruntimeconfig.cache
